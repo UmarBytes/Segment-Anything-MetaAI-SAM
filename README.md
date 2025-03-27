@@ -50,6 +50,3 @@ Automatic Mask Generator
 pip install opencv-python matplotlib
 pip install git+https://github.com/facebookresearch/segment-anything.git
 
-
-
-

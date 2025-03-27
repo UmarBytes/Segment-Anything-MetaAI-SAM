@@ -33,13 +33,18 @@ Automatic Mask Generator
 
 
 ### SAM 2 paper: https://arxiv.org/abs/2408.00714
- 
+### PTH File link (sam_vit_h_4b8939): https://huggingface.co/segments-arnaud/sam_vit_h/blob/main/sam_vit_h_4b8939.pth 
+
+
 
 ![model_diagram](https://github.com/user-attachments/assets/df79d029-60fa-4e35-a302-2d0e4a6c19bf)
 
 
 
 ![output](https://github.com/user-attachments/assets/8f18db8f-e0f7-45a4-8d24-bb4593069b7c)
+
+
+
 
 
 
